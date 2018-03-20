@@ -1,6 +1,6 @@
 require 'minitest/autorun'
 require 'minitest/pride'
-require './lib/credit_check_alt'
+require './lib/credit_check'
 require 'pry'
 
 class CreditCheckTest < Minitest::Test
